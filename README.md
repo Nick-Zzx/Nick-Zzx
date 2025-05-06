@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi ，I'm Nick 👋
+- 🌱 I’m currently learning Fin Tech!
 <!--
 **Nick-Zzx/Nick-Zzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
